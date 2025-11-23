@@ -9,6 +9,7 @@ A terminal-based 2-player Connect 4 game built with Python and curses library. F
 - Colorful interface
 - Centered display
 - Simple controls
+- Controls instructions
 
 ## Requirements
 
