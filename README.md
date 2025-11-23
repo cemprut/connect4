@@ -26,3 +26,4 @@ A terminal-based 2-player Connect 4 game built with Python and curses library. F
 
 ```bash
 python connect4.py
+```
